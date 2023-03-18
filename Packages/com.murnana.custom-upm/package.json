@@ -1,7 +1,10 @@
 {
   "name": "com.murnana.custom-upm",
   "version": "0.0.1-exp.1",
+  "unity": "2020.3",
+  "unityRelease": "29f1",
+  "displayName": "Murnana Custom",
   "author": {
-    "name" : "Murnana"
+    "name": "Murnana"
   }
 }
